@@ -1,0 +1,163 @@
+{
+    "data": [
+    	{
+            "lokasi": "ALUN ALUN",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/alun_alun.m3u8"
+        },  
+    	{
+            "lokasi": "AJI BARANG",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/ajibarang.m3u8"
+        },  
+        {
+            "lokasi": "GOR SATRIA",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/gor_satria.m3u8"
+        },
+        {
+            "lokasi": "GOR SATRIA BARAT",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/gor_satria_barat.m3u8"
+        },
+        {
+            "lokasi": "GOR SATRIA SELATAN",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/gor_satria_selatan.m3u8"
+        },
+        {
+            "lokasi": "JL MASJID",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/jl_masjid.m3u8"
+        }, 
+        {
+            "lokasi": "KALIBAGOR",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/kalibogor.m3u8"
+        },
+        {
+            "lokasi": "KARANG PUCUNG",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/karang_pucung.m3u8"
+        },
+        {
+            "lokasi": "KARANG BAWANG",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/karang_bawang.m3u8"
+        },
+        {
+            "lokasi": "KARANG BAWANG SELATAN",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/karang_bawang_selatan.m3u8"
+        },
+        {
+            "lokasi": "KARANG BAWANG TIMUR",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/karang_bawang_timur.m3u8"
+        },
+        {
+            "lokasi": "KARANG BAWANG BARAT",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/karang_bawang_barat.m3u8"
+        },
+        {
+            "lokasi": "KARANG LEWAS",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/karang_lewas.m3u8"
+        }, 
+        {
+            "lokasi": "KARANGLO",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/karanglo.m3u8"
+        },    
+        {
+            "lokasi": "KEBON DALEM",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/kebon_dalem.m3u8"
+        },
+        {
+            "lokasi": "KEBON DALEM BARAT",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/kebon_dalem_barat.m3u8"
+        },
+        {
+            "lokasi": "KEBON DALEM TIMUR",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/kebon_dalem_timur.m3u8"
+        },
+        {
+            "lokasi": "LINGGA MAS",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/linggamas.m3u8"
+        },  
+        {
+            "lokasi": "MARGONO",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/margono.m3u8"
+        },
+        {
+            "lokasi": "MUSEUM BRI",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/museum_bri.m3u8"
+        },
+        {
+            "lokasi": "PATRIOT",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/patriot.m3u8"
+        },
+        {
+            "lokasi": "PANCURAWIS",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/pancurawis.m3u8"
+        }, 
+        {
+            "lokasi": "SUTOSUMAN",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/sutosuman.m3u8"
+        },
+        {
+            "lokasi": "SUTOSUMAN BARAT",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/sutosuman_barat.m3u8"
+        },
+        {
+            "lokasi": "SAWANGAN",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/sawangan.m3u8"
+        },
+        {
+            "lokasi": "SANGKAL PUTUNG",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/sangkal_putung.m3u8"
+        },
+        {
+            "lokasi": "SANGKAL PUTUNG UTARA",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/sangkal_putung_utara.m3u8"
+        }, 
+        {
+            "lokasi": "SANGKAL PUTUNG TIMUR",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/sangkal_putung_timur.m3u8"
+        },   
+        {
+            "lokasi": "SOKARAJA",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/sokaraja.m3u8"
+        }, 
+        {
+            "lokasi": "SOKARAJA SELATAN",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/sokaraja_selatan_fix.m3u8"
+        }, 
+        {
+            "lokasi": "SOKARAJA BARAT",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/sokaraja_barat_fix.m3u8"
+        },  
+        {
+            "lokasi": "SOKARAJA SELATAN",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/sokaraja_selatan_ptz.m3u8"
+        }, 
+        {
+            "lokasi": "SITUMPUR",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/situmpur.m3u8"
+        },
+        {
+            "lokasi": "TANJUNG",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/tanjung.m3u8"
+        },
+        {
+            "lokasi": "TANJUNG BARAT",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/tanjung_barat.m3u8"
+        },
+        {
+            "lokasi": "TANJUNG UTARA",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/tanjung_barat.m3u8"
+        },
+        {
+            "lokasi": "RUAS TANJUNG",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/ruas_tanjung.m3u8"
+        },
+        {
+            "lokasi": "TUGU ADIPURA",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/tugu_adipura.m3u8"
+        },  
+        {
+            "lokasi": "UNDERPASS",
+            "url": "http://atcs.banyumaskab.go.id:80/camera/underpass.m3u8"
+        },  
+        {
+            "undefined": ""
+        }
+    ]
+}
